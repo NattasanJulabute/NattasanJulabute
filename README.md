@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @NattasanJulabute
+- 👋 I'm from thailand, so you can call me `mon`
+- 👀 I’m interested in Data science, python programmimg, Web application
+- 🌱 I’m currently learning on `Image processing, like count rectangles in image`
+- 🌱 I’m currently learning on `Flask Web application`
+- 🌱 I’m currently learning on `Python deal with MySQL database`
+- 🌱 I’m currently learning on `Python GUI with PysimpleGUI`
+- 🌱 I’m currently learning on `Tableau and Power BI visualization`
+- 
+- 💞️ I’m looking to collaborate on a job or project that can develop myself and orgranization to better version......
+- 📫 How to reach me  Email: `nattasan272.mon@gmail.com` Phone: 091-7206893
+           
